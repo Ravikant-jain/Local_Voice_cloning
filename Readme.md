@@ -1,6 +1,4 @@
 
-
-```markdown
 # Local Voice Cloning with Qwen3-TTS
 
 This project implements a local, high-fidelity voice cloning pipeline using the **Qwen3-TTS** model architecture. It is designed to run efficiently on local hardware using PyTorch.

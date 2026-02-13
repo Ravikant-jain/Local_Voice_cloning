@@ -1,0 +1,8 @@
+# Project Specific (Models & Audio)
+Qwen3-TTS-12Hz-0.6B-Base/
+inputs/
+lfs/
+*.wav
+
+# Jupyter
+.ipynb_checkpoints/

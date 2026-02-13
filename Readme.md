@@ -60,7 +60,3 @@ pip install -r requirements.txt
 ## ⚖️ License
 
 This project is for educational and research purposes. Please ensure you have the rights to any voice data you use for cloning.
-
-```
-
----
